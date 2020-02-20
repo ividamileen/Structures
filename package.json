@@ -1,0 +1,25 @@
+{
+  "name": "structures",
+  "version": "1.0.0",
+  "description": "JSON validation and visualization application",
+  "main": "src/index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ividamileen/Structures.git"
+  },
+  "keywords": [
+    "JSON"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ividamileen/Structures/issues"
+  },
+  "homepage": "https://github.com/ividamileen/Structures#readme"
+}
